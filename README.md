@@ -24,11 +24,10 @@ LucaOS is an arch based Linux distro being worked on as a hobby project by Luca.
 </pre>
 
 # TODO
-
-<input type="checkbox" checked>Live ISO</input>
-<input type="checkbox">Installer</input>
-<input type="checkbox" checked>Custom branding</input>
-<input type="checkbox">app suite (more info to come)</input>
+- [x] checked>Live ISO
+- [] Installer
+- [x] checked>Custom branding
+- [] app suite (more info to come)
 
 
 # Downloads
